@@ -163,7 +163,8 @@ git push origin feature-name
 **Dipan Mondal**
 
 GitHub: https://github.com/Coder-Dipan
-LinkedIn : 
+
+LinkedIn : https://www.linkedin.com/in/dipan-mondal-8b068025b
 
 ---
 
